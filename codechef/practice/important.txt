@@ -1,0 +1,4 @@
+read doubt.cpp
+
+
+1. // so i can store a char in the place of int that will give us the ASCII number and vica-versa.. so for long long integer we can store that into an array in C and into a string in C++ 
